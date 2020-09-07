@@ -1,5 +1,5 @@
 |        Needs        | Solutions |
-| :--- | :---: |
+| :--- | :--- |
 | Washing Machine | Record washing machine while in use |
 | Cat Ball Toy | Record myself fidgeting around with toy or entice cat into playing |
 | Bedroom Fan | Record the fan as it is running |

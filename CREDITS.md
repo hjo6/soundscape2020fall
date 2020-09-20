@@ -14,15 +14,19 @@
 | Walking Up Steps | Record the sound as I walk up the steps **(Recorded)** |
 | Door Opening | Record the sound of my laundry room door opening **(Recorded)** |
 | Door Closing | Record the sound of my laundry room door closing **(Recorded)** |
+| Figaro's Inner Monologue | Record myself reading lines for Figaro's inner monologue. Change pitch to make the "voice" sound like what an animal's voice might sound like, and add reverb to make the lines sound like they're inside the narrator's head **(Recorded)** |
 | Light Thud/Cat Jumping Down | Name: sgrowe, Creative Commons 0 License, Title: "Light Thud 2", Link: https://freesound.org/people/sgrowe/sounds/342532/ |
-| Cat Meowing | Record my cat when he's meowing/being vocal |
+| Background Music | Title: Eternal Garden, Artist: Dan Henig, YouTube Audio Library, Link: https://studio.youtube.com/channel/UC21Pky0Zx8ciMF7CD7nNLnw/music?utm_campaign=upgrade&utm_medium=redirect&utm_source=%2Faudiolibrary%2Fmusic |
+| Cabinet Door Open/Close | Name: deleted_user_7146007, Creative Commons 0 License, Title: "Opening Closing Cabinet Door", Link: https://freesound.org/people/deleted_user_7146007/sounds/383836/ |
+| Fridge Door Open/Close | Name: squareal, Creative Commons 0 License, Title: "Fridge Door Open Close", Link: https://freesound.org/people/squareal/sounds/237400/ |
+| Pots and Pans | Name: volivieri, Attribution License, Title: "pots n pans 13.aif", Link: https://freesound.org/people/volivieri/sounds/80131/ |
+| Igniting Stovetop Burner | Name: Npeo, Attribution License, Title: "Gas-Lit Stove", Link: https://freesound.org/people/Npeo/sounds/447732/ |
+| Cooking | Name: JasonElrod, Attribution License, Title: "Sizzling.aif", Link: https://freesound.org/people/JasonElrod/sounds/85468/ |
+| Grabbing a plate | Name: 14G_Panska_Kaminkova_A, Creative Commons 0 License, Title: "Laying down a plate", Link: https://freesound.org/people/14G_Panska_Kaminkova_A/sounds/419985/ |
+| Cat Sifting Litter | Name: vcspran, Creative Commons 0 License, Title: "Cat_Scraping_Litterbox.wav", Link: https://freesound.org/people/vcspran/sounds/344584/ |
+| Cleaning Dishes | Name: cazadordoblekatana, Creative Commons 0 License, Title: "17-WashingDishes.wav", Link: https://freesound.org/people/cazadordoblekatana/sounds/429145/ |
+| Sink Running | Name: danhelbling, Creative Commons 0 License, Title: "Sink faucet Running.wav", Link: https://freesound.org/people/danhelbling/sounds/272389/ || Cat Meowing | Name: 16GPanskaZlochova_Eliska, Creative Commons 0 License, Title: "7_Cat, meow.wav", Link: https://freesound.org/people/16GPanskaZlochova_Eliska/sounds/496280/ |
 | Cat Hissing | Record me and my roommates cats playing |
-| Shower Running | Record the shower while running |
 | Cats Running | Either record one of the cats using the stairs or record myself using stairs and use effects to make footsteps sound lighter |
 | Cat Drinking | Record my cat drinking or playing with water |
-| Cat Sifting Litter | Record myself sifting a clean litter box or record my cat while he's in the litter box |
-| Refrigerator | Record the sound of the refrigerator running |
-| Pots and Pans | Bang some pots and pans together to get the sound |
-| Cooking | Record my roommate cooking |
-| Music | Record myself practicing guitar |
 | Gaming | Record my roommate and I while we play video games |

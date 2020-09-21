@@ -17,6 +17,7 @@
 | Figaro's Inner Monologue | Record myself reading lines for Figaro's inner monologue. Change pitch to make the "voice" sound like what an animal's voice might sound like, and add reverb to make the lines sound like they're inside the narrator's head **(Self Recorded)** |
 | Cat Playing with Plastic Bag | Record myself crumpling a plastic bag to simulate the sound of a cat playing with a plastic bag **(Self Recorded)** |
 | Pulling Cord of Light | Record myself pulling the chord of my light to turn it off **(Self Recorded)** |
+| Roommate Talking | Record myself speaking line, modify pitch, bass, and treble to make it sound like someone else **(Self Recorded)** |
 | Light Thud/Cat Jumping Down | Title: "Light Thud 2", Name: sgrowe, Creative Commons 0 License, [Link](https://freesound.org/people/sgrowe/sounds/342532/) |
 | Background Music | Title: Eternal Garden, Artist: Dan Henig, YouTube Audio Library, [Link](https://studio.youtube.com/channel/UC21Pky0Zx8ciMF7CD7nNLnw/music?utm_campaign=upgrade&utm_medium=redirect&utm_source=%2Faudiolibrary%2Fmusic) (Search "Eternal Garden") |
 | Cabinet Door Open/Close | Title: "Opening Closing Cabinet Door", Name: deleted_user_7146007, Creative Commons 0 License, [Link](https://freesound.org/people/deleted_user_7146007/sounds/383836/) |

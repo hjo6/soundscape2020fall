@@ -18,7 +18,7 @@
 | Cat Playing with Plastic Bag | Record myself crumpling a plastic bag to simulate the sound of a cat playing with a plastic bag **(Self Recorded)** |
 | Pulling Cord of Light | Record myself pulling the chord of my light to turn it off **(Self Recorded)** |
 | Light Thud/Cat Jumping Down | Title: "Light Thud 2", Name: sgrowe, Creative Commons 0 License, [Link](https://freesound.org/people/sgrowe/sounds/342532/) |
-| Background Music | Title: Eternal Garden, Artist: Dan Henig, YouTube Audio Library, [Link](https://studio.youtube.com/channel/UC21Pky0Zx8ciMF7CD7nNLnw/music?utm_campaign=upgrade&utm_medium=redirect&utm_source=%2Faudiolibrary%2Fmusic) |
+| Background Music | Title: Eternal Garden, Artist: Dan Henig, YouTube Audio Library, [Link](https://studio.youtube.com/channel/UC21Pky0Zx8ciMF7CD7nNLnw/music?utm_campaign=upgrade&utm_medium=redirect&utm_source=%2Faudiolibrary%2Fmusic) (Search "Eternal Garden") |
 | Cabinet Door Open/Close | Title: "Opening Closing Cabinet Door", Name: deleted_user_7146007, Creative Commons 0 License, [Link](https://freesound.org/people/deleted_user_7146007/sounds/383836/) |
 | Fridge Door Open/Close | Title: "Fridge Door Open Close", Name: squareal, Creative Commons 0 License, [Link](https://freesound.org/people/squareal/sounds/237400/) |
 | Pots and Pans | Title: "pots n pans 13.aif", Name: volivieri, Attribution License, [Link](https://freesound.org/people/volivieri/sounds/80131/) |
